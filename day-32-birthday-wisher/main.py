@@ -12,7 +12,7 @@ today_tuple = (now.month, now.day)
 
 # my email data
 my_email = "bqshina1994@gmail.com"
-password = "bqSq9417"
+password = "********"
 # check birthdays.csv
 birthdays_data = pandas.read_csv("birthdays.csv")
 
