@@ -48,6 +48,7 @@ def apply_job():
             submit_application.click()
             close_application()
             print("applied")
+            time.sleep(3)
         else:
             close_application()
             time.sleep(2)
